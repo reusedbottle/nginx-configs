@@ -1,2 +1,2 @@
 # nginx-configs
-Configuration files for Nginx.
+This repository contains configuration files for the Nginx web server.
